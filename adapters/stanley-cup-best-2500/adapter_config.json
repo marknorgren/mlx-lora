@@ -1,0 +1,40 @@
+{
+    "adapter_path": "adapters/stanley-cup-best-2500",
+    "batch_size": 2,
+    "config": "configs/best_stanley_cup.yaml",
+    "data": "data/nhl_stanley_cups",
+    "fine_tune_type": "lora",
+    "grad_checkpoint": false,
+    "iters": 2500,
+    "learning_rate": 1.5e-05,
+    "lora_parameters": {
+        "rank": 16,
+        "dropout": 0.1,
+        "scale": 20.0
+    },
+    "lr_schedule": null,
+    "mask_prompt": false,
+    "max_seq_length": 2048,
+    "model": "mlx-community/Mistral-7B-Instruct-v0.3-4bit",
+    "num_layers": 32,
+    "optimizer": "adam",
+    "optimizer_config": {
+        "adam": {
+            "betas": [
+                0.9,
+                0.999
+            ],
+            "eps": 1e-08
+        }
+    },
+    "resume_adapter_file": null,
+    "save_every": 250,
+    "seed": 42,
+    "steps_per_eval": 100,
+    "steps_per_report": 25,
+    "test": false,
+    "test_batches": 500,
+    "train": true,
+    "val_batches": 25,
+    "wandb": null
+}

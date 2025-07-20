@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(uv add:*)",
+      "Bash(uv run:*)",
+      "Bash(uv pip install:*)",
+      "Bash(rm:*)",
+      "Bash(uv sync:*)",
+      "Bash(ls:*)",
+      "Bash(chmod:*)",
+      "Bash(find:*)",
+      "Bash(git reset:*)"
+    ],
+    "deny": []
+  }
+}

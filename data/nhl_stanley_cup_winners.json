@@ -1,0 +1,668 @@
+[
+    {
+        "year": 1915,
+        "champion": "Vancouver Millionaires",
+        "runner_up": "Ottawa Senators",
+        "series": "3-0"
+    },
+    {
+        "year": 1916,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Portland Rosebuds",
+        "series": "3-2"
+    },
+    {
+        "year": 1917,
+        "champion": "Seattle Metropolitans",
+        "runner_up": "Montreal Canadiens",
+        "series": "3-1"
+    },
+    {
+        "year": 1918,
+        "champion": "Toronto Arenas",
+        "runner_up": "Vancouver Millionaires",
+        "series": "3-2"
+    },
+    {
+        "year": 1919,
+        "champion": null,
+        "runner_up": null,
+        "series": "Not awarded (Spanish flu)"
+    },
+    {
+        "year": 1920,
+        "champion": "Ottawa Senators",
+        "runner_up": "Seattle Metropolitans",
+        "series": "3-2"
+    },
+    {
+        "year": 1921,
+        "champion": "Ottawa Senators",
+        "runner_up": "Vancouver Millionaires",
+        "series": "3-2"
+    },
+    {
+        "year": 1922,
+        "champion": "Toronto St. Patricks",
+        "runner_up": "Vancouver Millionaires",
+        "series": "3-2"
+    },
+    {
+        "year": 1923,
+        "champion": "Ottawa Senators",
+        "runner_up": "Edmonton Eskimos",
+        "series": "2-0"
+    },
+    {
+        "year": 1924,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Calgary Tigers",
+        "series": "2-0"
+    },
+    {
+        "year": 1925,
+        "champion": "Victoria Cougars",
+        "runner_up": "Montreal Canadiens",
+        "series": "3-1"
+    },
+    {
+        "year": 1926,
+        "champion": "Montreal Maroons",
+        "runner_up": "Victoria Cougars",
+        "series": "3-1"
+    },
+    {
+        "year": 1927,
+        "champion": "Ottawa Senators",
+        "runner_up": "Boston Bruins",
+        "series": "2-0-2†"
+    },
+    {
+        "year": 1928,
+        "champion": "New York Rangers",
+        "runner_up": "Montreal Maroons",
+        "series": "3-2"
+    },
+    {
+        "year": 1929,
+        "champion": "Boston Bruins",
+        "runner_up": "New York Rangers",
+        "series": "2-0"
+    },
+    {
+        "year": 1930,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Boston Bruins",
+        "series": "2-0"
+    },
+    {
+        "year": 1931,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Chicago Black Hawks",
+        "series": "3-2"
+    },
+    {
+        "year": 1932,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "New York Rangers",
+        "series": "3-0"
+    },
+    {
+        "year": 1933,
+        "champion": "New York Rangers",
+        "runner_up": "Toronto Maple Leafs",
+        "series": "3-1"
+    },
+    {
+        "year": 1934,
+        "champion": "Chicago Black Hawks",
+        "runner_up": "Detroit Red Wings",
+        "series": "3-1"
+    },
+    {
+        "year": 1935,
+        "champion": "Montreal Maroons",
+        "runner_up": "Toronto Maple Leafs",
+        "series": "3-0"
+    },
+    {
+        "year": 1936,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Toronto Maple Leafs",
+        "series": "3-1"
+    },
+    {
+        "year": 1937,
+        "champion": "Detroit Red Wings",
+        "runner_up": "New York Rangers",
+        "series": "3-2"
+    },
+    {
+        "year": 1938,
+        "champion": "Chicago Black Hawks",
+        "runner_up": "Toronto Maple Leafs",
+        "series": "3-1"
+    },
+    {
+        "year": 1939,
+        "champion": "Boston Bruins",
+        "runner_up": "Toronto Maple Leafs",
+        "series": "4-1"
+    },
+    {
+        "year": 1940,
+        "champion": "New York Rangers",
+        "runner_up": "Toronto Maple Leafs",
+        "series": "4-2"
+    },
+    {
+        "year": 1941,
+        "champion": "Boston Bruins",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-0"
+    },
+    {
+        "year": 1942,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-3"
+    },
+    {
+        "year": 1943,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Boston Bruins",
+        "series": "4-0"
+    },
+    {
+        "year": 1944,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Chicago Black Hawks",
+        "series": "4-0"
+    },
+    {
+        "year": 1945,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-3"
+    },
+    {
+        "year": 1946,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Boston Bruins",
+        "series": "4-1"
+    },
+    {
+        "year": 1947,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Montreal Canadiens",
+        "series": "4-2"
+    },
+    {
+        "year": 1948,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-0"
+    },
+    {
+        "year": 1949,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-0"
+    },
+    {
+        "year": 1950,
+        "champion": "Detroit Red Wings",
+        "runner_up": "New York Rangers",
+        "series": "4-3 (OT G7)"
+    },
+    {
+        "year": 1951,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Montreal Canadiens",
+        "series": "4-1 (all OT)"
+    },
+    {
+        "year": 1952,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Montreal Canadiens",
+        "series": "4-0"
+    },
+    {
+        "year": 1953,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Boston Bruins",
+        "series": "4-1"
+    },
+    {
+        "year": 1954,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Montreal Canadiens",
+        "series": "4-3 (OT G7)"
+    },
+    {
+        "year": 1955,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Montreal Canadiens",
+        "series": "4-3"
+    },
+    {
+        "year": 1956,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-1"
+    },
+    {
+        "year": 1957,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Boston Bruins",
+        "series": "4-1"
+    },
+    {
+        "year": 1958,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Boston Bruins",
+        "series": "4-2"
+    },
+    {
+        "year": 1959,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Toronto Maple Leafs",
+        "series": "4-1"
+    },
+    {
+        "year": 1960,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Toronto Maple Leafs",
+        "series": "4-0"
+    },
+    {
+        "year": 1961,
+        "champion": "Chicago Black Hawks",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-2"
+    },
+    {
+        "year": 1962,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Chicago Black Hawks",
+        "series": "4-2"
+    },
+    {
+        "year": 1963,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-1"
+    },
+    {
+        "year": 1964,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-3"
+    },
+    {
+        "year": 1965,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Chicago Black Hawks",
+        "series": "4-3"
+    },
+    {
+        "year": 1966,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-2"
+    },
+    {
+        "year": 1967,
+        "champion": "Toronto Maple Leafs",
+        "runner_up": "Montreal Canadiens",
+        "series": "4-2"
+    },
+    {
+        "year": 1968,
+        "champion": "Montreal Canadiens",
+        "runner_up": "St. Louis Blues",
+        "series": "4-0"
+    },
+    {
+        "year": 1969,
+        "champion": "Montreal Canadiens",
+        "runner_up": "St. Louis Blues",
+        "series": "4-0"
+    },
+    {
+        "year": 1970,
+        "champion": "Boston Bruins",
+        "runner_up": "St. Louis Blues",
+        "series": "4-0"
+    },
+    {
+        "year": 1971,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Chicago Black Hawks",
+        "series": "4-3"
+    },
+    {
+        "year": 1972,
+        "champion": "Boston Bruins",
+        "runner_up": "New York Rangers",
+        "series": "4-2"
+    },
+    {
+        "year": 1973,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Chicago Black Hawks",
+        "series": "4-2"
+    },
+    {
+        "year": 1974,
+        "champion": "Philadelphia Flyers",
+        "runner_up": "Boston Bruins",
+        "series": "4-2"
+    },
+    {
+        "year": 1975,
+        "champion": "Philadelphia Flyers",
+        "runner_up": "Buffalo Sabres",
+        "series": "4-2"
+    },
+    {
+        "year": 1976,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Philadelphia Flyers",
+        "series": "4-0"
+    },
+    {
+        "year": 1977,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Boston Bruins",
+        "series": "4-0"
+    },
+    {
+        "year": 1978,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Boston Bruins",
+        "series": "4-2"
+    },
+    {
+        "year": 1979,
+        "champion": "Montreal Canadiens",
+        "runner_up": "New York Rangers",
+        "series": "4-1"
+    },
+    {
+        "year": 1980,
+        "champion": "New York Islanders",
+        "runner_up": "Philadelphia Flyers",
+        "series": "4-2"
+    },
+    {
+        "year": 1981,
+        "champion": "New York Islanders",
+        "runner_up": "Minnesota North Stars",
+        "series": "4-1"
+    },
+    {
+        "year": 1982,
+        "champion": "New York Islanders",
+        "runner_up": "Vancouver Canucks",
+        "series": "4-0"
+    },
+    {
+        "year": 1983,
+        "champion": "New York Islanders",
+        "runner_up": "Edmonton Oilers",
+        "series": "4-0"
+    },
+    {
+        "year": 1984,
+        "champion": "Edmonton Oilers",
+        "runner_up": "New York Islanders",
+        "series": "4-1"
+    },
+    {
+        "year": 1985,
+        "champion": "Edmonton Oilers",
+        "runner_up": "Philadelphia Flyers",
+        "series": "4-1"
+    },
+    {
+        "year": 1986,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Calgary Flames",
+        "series": "4-1"
+    },
+    {
+        "year": 1987,
+        "champion": "Edmonton Oilers",
+        "runner_up": "Philadelphia Flyers",
+        "series": "4-3"
+    },
+    {
+        "year": 1988,
+        "champion": "Edmonton Oilers",
+        "runner_up": "Boston Bruins",
+        "series": "4-0††"
+    },
+    {
+        "year": 1989,
+        "champion": "Calgary Flames",
+        "runner_up": "Montreal Canadiens",
+        "series": "4-2"
+    },
+    {
+        "year": 1990,
+        "champion": "Edmonton Oilers",
+        "runner_up": "Boston Bruins",
+        "series": "4-1"
+    },
+    {
+        "year": 1991,
+        "champion": "Pittsburgh Penguins",
+        "runner_up": "Minnesota North Stars",
+        "series": "4-2"
+    },
+    {
+        "year": 1992,
+        "champion": "Pittsburgh Penguins",
+        "runner_up": "Chicago Blackhawks",
+        "series": "4-0"
+    },
+    {
+        "year": 1993,
+        "champion": "Montreal Canadiens",
+        "runner_up": "Los Angeles Kings",
+        "series": "4-1"
+    },
+    {
+        "year": 1994,
+        "champion": "New York Rangers",
+        "runner_up": "Vancouver Canucks",
+        "series": "4-3"
+    },
+    {
+        "year": 1995,
+        "champion": "New Jersey Devils",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-0"
+    },
+    {
+        "year": 1996,
+        "champion": "Colorado Avalanche",
+        "runner_up": "Florida Panthers",
+        "series": "4-0"
+    },
+    {
+        "year": 1997,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Philadelphia Flyers",
+        "series": "4-0"
+    },
+    {
+        "year": 1998,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Washington Capitals",
+        "series": "4-0"
+    },
+    {
+        "year": 1999,
+        "champion": "Dallas Stars",
+        "runner_up": "Buffalo Sabres",
+        "series": "4-2"
+    },
+    {
+        "year": 2000,
+        "champion": "New Jersey Devils",
+        "runner_up": "Dallas Stars",
+        "series": "4-2"
+    },
+    {
+        "year": 2001,
+        "champion": "Colorado Avalanche",
+        "runner_up": "New Jersey Devils",
+        "series": "4-3"
+    },
+    {
+        "year": 2002,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Carolina Hurricanes",
+        "series": "4-1"
+    },
+    {
+        "year": 2003,
+        "champion": "New Jersey Devils",
+        "runner_up": "Mighty Ducks of Anaheim",
+        "series": "4-3"
+    },
+    {
+        "year": 2004,
+        "champion": "Tampa Bay Lightning",
+        "runner_up": "Calgary Flames",
+        "series": "4-3"
+    },
+    {
+        "year": 2005,
+        "champion": null,
+        "runner_up": null,
+        "series": "Not awarded (NHL lockout)"
+    },
+    {
+        "year": 2006,
+        "champion": "Carolina Hurricanes",
+        "runner_up": "Edmonton Oilers",
+        "series": "4-3"
+    },
+    {
+        "year": 2007,
+        "champion": "Anaheim Ducks",
+        "runner_up": "Ottawa Senators",
+        "series": "4-1"
+    },
+    {
+        "year": 2008,
+        "champion": "Detroit Red Wings",
+        "runner_up": "Pittsburgh Penguins",
+        "series": "4-2"
+    },
+    {
+        "year": 2009,
+        "champion": "Pittsburgh Penguins",
+        "runner_up": "Detroit Red Wings",
+        "series": "4-3"
+    },
+    {
+        "year": 2010,
+        "champion": "Chicago Blackhawks",
+        "runner_up": "Philadelphia Flyers",
+        "series": "4-2"
+    },
+    {
+        "year": 2011,
+        "champion": "Boston Bruins",
+        "runner_up": "Vancouver Canucks",
+        "series": "4-3"
+    },
+    {
+        "year": 2012,
+        "champion": "Los Angeles Kings",
+        "runner_up": "New Jersey Devils",
+        "series": "4-2"
+    },
+    {
+        "year": 2013,
+        "champion": "Chicago Blackhawks",
+        "runner_up": "Boston Bruins",
+        "series": "4-2"
+    },
+    {
+        "year": 2014,
+        "champion": "Los Angeles Kings",
+        "runner_up": "New York Rangers",
+        "series": "4-1"
+    },
+    {
+        "year": 2015,
+        "champion": "Chicago Blackhawks",
+        "runner_up": "Tampa Bay Lightning",
+        "series": "4-2"
+    },
+    {
+        "year": 2016,
+        "champion": "Pittsburgh Penguins",
+        "runner_up": "San Jose Sharks",
+        "series": "4-2"
+    },
+    {
+        "year": 2017,
+        "champion": "Pittsburgh Penguins",
+        "runner_up": "Nashville Predators",
+        "series": "4-2"
+    },
+    {
+        "year": 2018,
+        "champion": "Washington Capitals",
+        "runner_up": "Vegas Golden Knights",
+        "series": "4-1"
+    },
+    {
+        "year": 2019,
+        "champion": "St. Louis Blues",
+        "runner_up": "Boston Bruins",
+        "series": "4-3"
+    },
+    {
+        "year": 2020,
+        "champion": "Tampa Bay Lightning",
+        "runner_up": "Dallas Stars",
+        "series": "4-2"
+    },
+    {
+        "year": 2021,
+        "champion": "Tampa Bay Lightning",
+        "runner_up": "Montreal Canadiens",
+        "series": "4-1"
+    },
+    {
+        "year": 2022,
+        "champion": "Colorado Avalanche",
+        "runner_up": "Tampa Bay Lightning",
+        "series": "4-2"
+    },
+    {
+        "year": 2023,
+        "champion": "Vegas Golden Knights",
+        "runner_up": "Florida Panthers",
+        "series": "4-1"
+    },
+    {
+        "year": 2024,
+        "champion": "Florida Panthers",
+        "runner_up": "Edmonton Oilers",
+        "series": "4-3"
+    },
+    {
+        "year": 2025,
+        "champion": "Florida Panthers",
+        "runner_up": "Edmonton Oilers",
+        "series": "4-2"
+    }
+]
